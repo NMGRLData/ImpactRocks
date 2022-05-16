@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 30.0,
+    "commit": "2ea52734acce90874cb1941fc6aea54e9a5726d6",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 1.5,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "D0115",
+    "measured_response": "WwXFTgAAAACgFNM9AAD6RLq7BkAAAPpEKGWDQAAA+kTsXsNAAAD6RE3ZAUEAAPpEQOUhQQAA+kRY4UFBAAD6RG8DYkEAAPpEz/+AQQAA+kTiAJFBAAD6RA//oEEAAPpENv2wQQAA+kRX/8BBAAD6RHz90EEAAPpEkfvgQQAA+kRc//BBAAD6RMp+AEIAAPpEz30IQgAA+kQEfRBCAAD6RBZ8GEIAAPpEOHsgQgAA+kSggihCAAD6RLuLMEIAAPpE15I4QgAA+kTikUBCAAD6RF2YSEIAAPpEZpdQQgAA+kSxm1hCAAD6RN+aYEIAAPpE2ZpoQgAA+kQGmnBCAAD6RCqZeEIAAPpEkE2AQgAA+kQXTYRCAAD6RKRMiEIAAPpEj02MQgAA+kQVTZBCAAD6RFZPlEIAAPpEV1CYQgAA+kRFUZxCAAD6RMZQoEIAAPpET1CkQgAA+kTUT6hCAAD6REtRrEIAAPpE/1CwQgAA+kSlUbRCAAD6RJ1SuEIAAPpE7Fe8QgAA+kQ=",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 23,
+            "x": -14.4018,
+            "y": -4.8006,
+            "z": 15.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "WwXFTgAAAACgFNM9pF6XQbq7BkAAAAAAKGWDQAAAAADsXsNAAAAAAE3ZAUEAAAAAQOUhQQAAAABY4UFBAAAAAG8DYkEAAAAAz/+AQQAAAADiAJFBAAAAAA//oEEAAAAANv2wQVxenEFX/8BBXF6cQXz90EFcXpxBkfvgQVxenEFc//BBXF6cQcp+AEJcXpxBz30IQlxenEEEfRBCXF6cQRZ8GEJcXpxBOHsgQjwrpkGggihCPCumQbuLMEI8K6ZB15I4QjwrpkHikUBCAAAAAF2YSEIAAAAAZpdQQgAAAACxm1hCAAAAAN+aYEIAAAAA2ZpoQgAAAAAGmnBCAAAAACqZeEIAAAAAkE2AQgAAAAAXTYRCAAAAAKRMiEIAAAAAj02MQgAAAAAVTZBCAAAAAFZPlEIAAAAAV1CYQgAAAABFUZxCAAAAAMZQoEIAAAAAT1CkQgAAAADUT6hCAAAAAEtRrEIAAAAA/1CwQgAAAAClUbRCAAAAAJ1SuEIAAAAA7Fe8QgAAAAA=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0115/70093-01E-001.avi"
+    ],
+    "weight": 0.0
+}
