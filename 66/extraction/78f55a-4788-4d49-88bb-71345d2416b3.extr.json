@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "9cb926a6e345cdf2916d721b9e60f61cb8b628b4",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 0.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "D0125",
+    "measured_response": "a4PFTgAAAAAATEk+AAD6RCHgDEAAAPpEipqGQAAA+kS+nMZAAAD6RB5oA0EAAPpEgYEjQQAA+kQ/k0NBAAD6RL+PY0EAAPpEvseBQQAA+kTMxZFBAAD6ROLFoUEAAPpEYsexQQAA+kQHy8FBAAD6RHTK0UEAAPpEYdnhQQAA+kSv1/FBAAD6ROzqAEIAAPpEJ+8IQgAA+kQ97hBCAAD6ROTwGEIAAPpEQfYgQgAA+kR+/ShCAAD6RIQDMUIAAPpEPwo5QgAA+kSGD0FCAAD6RD4QSUIAAPpEWRZRQgAA+kRNHFlCAAD6RHMfYUIAAPpEKiZpQgAA+kRGKHFCAAD6RBIpeUIAAPpEZZaAQgAA+kQHmYRCAAD6RIyYiEIAAPpEIpiMQgAA+kQym5BCAAD6RMKalEIAAPpEc5yYQgAA+kQEoJxCAAD6RGahoEIAAPpE7KSkQgAA+kRHpqhCAAD6RN2nrEIAAPpEO6uwQgAA+kT/q7RCAAD6RDuvuEIAAPpEGLa8QgAA+kQ=",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 17,
+            "x": -9.6012,
+            "y": 0.0,
+            "z": 14.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "a4PFTgAAAAAATEk+0QMIQiHgDEAAAAAAipqGQAAAAAC+nMZAAAAAAB5oA0EAAAAAgYEjQQAAAAA/k0NBAAAAAL+PY0EAAAAAvseBQQAAAADMxZFB3piJQeLFoUHlRYtBYsexQZ/wjEEHy8FBG5mOQXTK0UFoP5BBYdnhQWg/kEGv1/FBaD+QQezqAEJoP5BBJ+8IQmg/kEE97hBCaD+QQeTwGEJoP5BBQfYgQmg/kEF+/ShCaD+QQYQDMUJoP5BBPwo5Qmg/kEGGD0FCaD+QQT4QSUJoP5BBWRZRQmg/kEFNHFlCaD+QQXMfYUJoP5BBKiZpQmg/kEFGKHFCaD+QQRIpeUJoP5BBZZaAQmg/kEEHmYRCaD+QQYyYiEJoP5BBIpiMQmg/kEEym5BCaD+QQcKalEJoP5BBc5yYQmg/kEEEoJxCaD+QQWahoEJoP5BB7KSkQmg/kEFHpqhCaD+QQd2nrEJoP5BBO6uwQmg/kEH/q7RCaD+QQTuvuEJoP5BBGLa8Qmg/kEE=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0125/70038-01A-001.avi"
+    ],
+    "weight": 0
+}
